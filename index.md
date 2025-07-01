@@ -1,9 +1,9 @@
 ---
 ---
 
-# lafinj's Website
+# Strand Lab
 
-An engaging 1-3 sentence description of your lab.
+Developing cellular atlases of the mammalian lower urinary tract for fun and (intellectual) profit!
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on developing a better understanding of the normal healthy lower urinary tract. We can then use this information to better inform research into disease, including cancer and non-cancerous disorders of the lower urinary tract. Take a look at our publications here.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have several active research projects ongoing. See here for more details.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Strand Lab is made up of an interdisciplinary team of trainees, technicians, and scientists. Check our our current and former members here.
 
 {%
   include button.html
