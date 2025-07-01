@@ -3,6 +3,7 @@ name: Lari Smith
 image: images/smith_l.jpg
 role: former
 description: Graduate Student
+icon: fa-solid fa-graduation-cap
 links:
   home-page: https://strandlab.net
   orcid: 0000-0003-4676-8472

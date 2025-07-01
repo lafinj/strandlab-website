@@ -3,6 +3,7 @@ name: Gervaise Henry
 image: images/henry_g.jpg
 role: former
 description: Computational Biologist
+icon: fa-solid fa-code
 links:
   home-page: https://www.ghenry.info/
   orcid: 0000-0001-7772-9578

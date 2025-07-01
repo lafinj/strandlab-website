@@ -23,7 +23,7 @@ bfx:
   description: Computational Biologist
 
 tech:
-  icon: fa-solid
+  icon: fa-solid fa-flask
   description: Research Technician
 
 former:

@@ -1,6 +1,6 @@
 ---
 name: Nikita Malev
-image: images/malev_n.jpg
+image: images/malev_n.png
 role: phd
 links:
   home-page: https://strandlab.net

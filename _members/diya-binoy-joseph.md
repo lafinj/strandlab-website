@@ -3,6 +3,7 @@ name: Diya Binoy Joseph
 image: images/joseph_d.jpg
 role: former
 description: Postdoctoral Researcher
+icon: fa-solid fa-glasses
 links:
   home-page: https://strandlab.net
   orcid: 0000-0002-0587-9558

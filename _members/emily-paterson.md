@@ -1,6 +1,6 @@
 ---
-name: Emily Patterson
-image: images/patterson_e.jpg
+name: Emily Paterson
+image: images/paterson_e.jpg
 role: phd
 links:
   home-page: https://strandlab.net

@@ -3,6 +3,7 @@ name: Omkar Rege
 image: images/rege_o.jpg
 role: former
 description: STARS student
+icon: fa-solid fa-user-graduate
 links:
   home-page: https://strandlab.net
   orcid:
