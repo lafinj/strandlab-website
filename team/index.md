@@ -10,21 +10,11 @@ nav:
 The Strand Lab is made up of a diverse team of trainees, technicians, and scientists working together to advance our understanding of the lower urinary tract.
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi' and role != 'former'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role !=~ /alumni/" %}
 
 {% include section.html %}
 
 # Former members
 
-{% include list.html data="members" component="portrait" filter="role == 'former'" %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filter="role =~ /alumni/" %}

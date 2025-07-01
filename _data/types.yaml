@@ -11,11 +11,11 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  icon: fa-solid fa-user-graduate
+  description: Graduate Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-chalkboard-user
   description: Undergraduate Student
 
 bfx:
@@ -26,8 +26,8 @@ tech:
   icon: fa-solid fa-flask
   description: Research Technician
 
-former:
-  icon: fa-solid
+alumni:
+  icon: fa-solid fa-graduation-cap
 
 mascot:
   icon: fa-solid fa-dog
