@@ -1,264 +1,1030 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1073/pnas.2409754122
+  title: A 5-HT-mediated urethral defense against urinary tract infections
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Marcela Ambrogi
+  - Laura L. Hernandez
+  - Douglas W. Strand
+  - Sathish Kumar
+  - Michael F. Romero
+  - Jonathan Barasch
+  - Monica Ridlon
+  - Kimberly P. Keil Stietz
+  - Chad M. Vezina
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2025-04-14'
+  link: https://doi.org/g9rx6t
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1002/path.6283
+  title: Enhanced prostatic Esr1<sup>+</sup> luminal epithelial cells in the absence
+    of <scp>SRD5A2</scp>
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Christina Sharkey
+  - Xingbo Long
+  - "Ra'ad Al\u2010Faouri"
+  - Douglas Strand
+  - Aria F Olumi
+  - Zongwei Wang
+  publisher: The Journal of Pathology
+  date: '2024-04-12'
+  link: https://doi.org/g9rx6v
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1002/pros.24661
+  title: "Transcriptomic analysis of benign prostatic hyperplasia identifies critical\
+    \ pathways in prostatic overgrowth and 5\u2010alpha reductase inhibitor resistance"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Renjie Jin
+  - Connor M. Forbes
+  - Nicole L. Miller
+  - John Lafin
+  - Douglas W. Strand
+  - Thomas Case
+  - Justin M. Cates
+  - Qi Liu
+  - "Marisol Ramirez\u2010Solano"
+  - James L. Mohler
+  - Robert J. Matusik
+  publisher: The Prostate
+  date: '2024-01-03'
+  link: https://doi.org/g9rx6w
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1158/2159-8290.CD-22-0027
+  title: Prostate Cancer Transcriptomic Regulation by the Interplay of Germline Risk
+    Alleles, Somatic Mutations, and 3D Genomic Architecture
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: Cancer Discovery
+  date: '2022-09-15'
+  link: https://doi.org/grjx76
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1002/pros.24410
+  title: "Glucocorticoids are induced while dihydrotestosterone levels are suppressed\
+    \ in 5\u2010alpha reductase inhibitor treated human benign prostate hyperplasia\
+    \ patients"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Renjie Jin
+  - Connor Forbes
+  - Nicole L. Miller
+  - Douglas Strand
+  - Thomas Case
+  - Justin M. Cates
+  - "Hye\u2010Young H. Kim"
+  - Phillip Wages
+  - Ned A. Porter
+  - Krystin M. Mantione
+  - Sarah Burke
+  - James L. Mohler
+  - Robert J. Matusik
+  publisher: The Prostate
+  date: '2022-07-12'
+  link: https://doi.org/g9rx6x
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1002/pros.24367
+  title: PSA density is associated with BPH cellular composition
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Liwei Jia
+  - Douglas W. Strand
+  - Ramy S. Goueli
+  - Jeffrey C. Gahan
+  - Claus G. Roehrborn
+  - Ryan J. Mauck
+  publisher: The Prostate
+  date: '2022-06-02'
+  link: https://doi.org/g9rx6z
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1002/path.5857
+  title: "5\u2010Alpha reductase inhibitors induce a prostate luminal to club cell\
+    \ transition in human benign prostatic hyperplasia"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Diya B Joseph
+  - Gervaise H Henry
+  - Alicia Malewska
+  - Jeffrey C Reese
+  - Ryan J Mauck
+  - Jeffrey C Gahan
+  - Ryan C Hutchinson
+  - James L Mohler
+  - Claus G Roehrborn
+  - Douglas W Strand
+  publisher: The Journal of Pathology
+  date: '2022-02-03'
+  link: https://doi.org/g9rx62
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1002/pros.24190
+  title: The prostaglandin pathway is activated in patients who fail medical therapy
+    for benign prostatic hyperplasia with lower urinary tract symptoms
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
+  - RenJie Jin
+  - Douglas W. Strand
+  - Connor M. Forbes
+  - Thomas Case
+  - Justin M. M. Cates
+  - Qi Liu
+  - "Marisol Ramirez\u2010Solano"
+  - Ginger L. Milne
+  - Stephanie Sanchez
+  - Zunyi Y. Wang
+  - Dale E. Bjorling
+  - Nicole L. Miller
+  - Robert J. Matusik
+  publisher: The Prostate
+  date: '2021-07-20'
+  link: https://doi.org/g9rx63
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ydbio.2020.11.012
+  title: Progenitors in prostate development and disease
+  authors:
+  - Diya B. Joseph
+  - Anne E. Turco
+  - Chad M. Vezina
+  - Douglas W. Strand
+  publisher: Developmental Biology
+  date: '2021-05-01'
+  link: https://doi.org/g9rx64
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41391-020-0208-4
+  title: Obesity-associated inflammation induces androgenic to estrogenic switch in
+    the prostate gland
+  authors:
+  - Bichen Xue
+  - Shulin Wu
+  - Christina Sharkey
+  - Shahin Tabatabaei
+  - Chin-Lee Wu
+  - Zhipeng Tao
+  - Zhiyong Cheng
+  - Douglas Strand
+  - Aria F. Olumi
+  - Zongwei Wang
+  publisher: Prostate Cancer and Prostatic Diseases
+  date: '2020-02-06'
+  link: https://doi.org/g9rx65
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1242/dev.190108
+  title: Identification and characterization of cellular heterogeneity within the
+    developing renal interstitium
+  authors:
+  - Alicia R. England
+  - Christopher P. Chaney
+  - Amrita Das
+  - Mohita Patel
+  - Alicia Malewska
+  - Daniel Armendariz
+  - Gary C. Hon
+  - Douglas W. Strand
+  - Keri A. Drake
+  - Thomas J. Carroll
+  publisher: Development
+  date: '2020-08-01'
+  link: https://doi.org/g9rx66
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32698014
+  title: "Tissue-Specific Regulation of the Wnt/\u03B2-Catenin Pathway by PAGE4 Inhibition\
+    \ of Tankyrase."
+  authors:
+  - Sajjan Koirala
+  - Jonathon Klein
+  - Yumei Zheng
+  - Nicole O Glenn
+  - Travis Eisemann
+  - Klementina Fon Tacer
+  - Darcie J Miller
+  - Ozlem Kulak
+  - Meifen Lu
+  - David B Finkelstein
+  - Geoffrey Neale
+  - Heather Tillman
+  - Peter Vogel
+  - Douglas W Strand
+  - Lawrence Lum
+  - Chad A Brautigam
+  - John M Pascal
+  - Wilson K Clements
+  - Patrick Ryan Potts
+  publisher: Cell reports
+  date: '2020-07-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32698014
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32497356
+  title: Urethral luminal epithelia are castration-insensitive cells of the proximal
+    prostate.
+  authors:
+  - Diya B Joseph
+  - Gervaise H Henry
+  - Alicia Malewska
+  - Nida S Iqbal
+  - Hannah M Ruetten
+  - Anne E Turco
+  - Lisa L Abler
+  - Simran K Sandhu
+  - Mark T Cadena
+  - Venkat S Malladi
+  - Jeffrey C Reese
+  - Ryan J Mauck
+  - Jeffrey C Gahan
+  - Ryan C Hutchinson
+  - Claus G Roehrborn
+  - Linda A Baker
+  - Chad M Vezina
+  - Douglas W Strand
+  publisher: The Prostate
+  date: '2020-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32497356
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41559-020-1157-y
+  title: Stromal reactivity differentially drives tumour cell evolution and prostate
+    cancer progression
+  authors:
+  - Ziv Frankenstein
+  - David Basanta
+  - Omar E. Franco
+  - Yan Gao
+  - Rodrigo A. Javier
+  - Douglas W. Strand
+  - MinJae Lee
+  - Simon W. Hayward
+  - Gustavo Ayala
+  - Alexander R. A. Anderson
+  publisher: Nature Ecology &amp; Evolution
   date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  link: https://doi.org/g8r7mx
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1101/2020.03.02.973966
+  title: Characterization of interstitial heterogeneity in the developing kidney
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Alicia R. England
+  - Christopher P. Chaney
+  - Amrita Das
+  - Mohita Patel
+  - Alicia Malewsak
+  - Daniel Armendariz
+  - Gary Hon
+  - Douglas Strand
+  - Keri Drake
+  - Thomas J. Carroll
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2020-03-03'
+  link: https://doi.org/gk2vb9
+  orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1002/pros.23829
+  title: Distinct expression patterns of SULT2B1b in human prostate epithelium
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Jiang Yang
+  - Meaghan M. Broman
+  - Paula O. Cooper
+  - Nadia A. Lanman
+  - Douglas W. Strand
+  - Colm Morrissey
+  - Timothy L. Ratliff
+  publisher: The Prostate
+  date: '2019-06-18'
+  link: https://doi.org/g9rx67
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.urology.2019.02.035
+  title: EDITORIAL COMMENT
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Douglas Strand
+  publisher: Urology
+  date: '2019-07-01'
+  link: https://doi.org/g9rx68
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.2654018
+  title: Determining cellular heterogeneity in the human prostate with single-cell
+    RNA sequencing
+  authors:
+  - Gervaise H Henry
+  - Douglas W Strand
+  publisher: Zenodo
+  date: '2018-12-18'
+  link: https://doi.org/g9rx69
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.39636
+  title: Identification of functionally distinct fibro-inflammatory and adipogenic
+    stromal subpopulations in visceral adipose tissue of adult mice
+  authors:
+  - Chelsea Hepler
+  - Bo Shan
+  - Qianbin Zhang
+  - Gervaise H Henry
+  - Mengle Shao
+  - Lavanya Vishvanath
+  - Alexandra L Ghaben
+  - Angela B Mobley
+  - Douglas Strand
+  - Gary C Hon
+  - Rana K Gupta
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  date: '2018-09-28'
+  link: https://doi.org/gg57w9
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pros.23641
+  title: Prostatic collagen architecture in neutered and intact canines
+  authors:
+  - Hannah Ruetten
+  - Kyle A. Wegner
+  - Michael F. Romero
+  - Michael W. Wood
+  - Paul C. Marker
+  - Douglas Strand
+  - Sara A. Colopy
+  - Chad M. Vezina
+  publisher: The Prostate
+  date: '2018-05-08'
+  link: https://doi.org/g9rx7b
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2018.11.086
+  title: A Cellular Anatomy of the Normal Adult Human Prostate and Prostatic Urethra
+  authors:
+  - Gervaise H. Henry
+  - Alicia Malewska
+  - Diya B. Joseph
+  - Venkat S. Malladi
+  - Jeon Lee
+  - Jose Torrealba
+  - Ryan J. Mauck
+  - Jeffrey C. Gahan
+  - Ganesh V. Raj
+  - Claus G. Roehrborn
+  - Gary C. Hon
+  - Malcolm P. MacConmara
+  - Jeffrey C. Reese
+  - Ryan C. Hutchinson
+  - Chad M. Vezina
+  - Douglas W. Strand
+  publisher: Cell Reports
+  date: '2018-12-01'
+  link: https://doi.org/gfrms3
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.25548/w-r8cm
+  title: Determining the cellular heterogeneity of the normal human prostate
+  authors:
+  - Douglas Strand
+  publisher: GUDMAP (www.gudmap.org)
+  date: '2018-01-01'
+  link: https://doi.org/g9rx7c
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ccell.2018.10.016
+  title: Molecular Evolution of Early-Onset Prostate Cancer Identifies Molecular Risk
+    Markers and Clinical Trajectories
+  authors:
+  - Clarissa Gerhauser
+  - Francesco Favero
+  - Thomas Risch
+  - Ronald Simon
+  - Lars Feuerbach
+  - Yassen Assenov
+  - Doreen Heckmann
+  - Nikos Sidiropoulos
+  - Sebastian M. Waszak
+  - "Daniel H\xFCbschmann"
+  - Alfonso Urbanucci
+  - Etsehiwot G. Girma
+  - Vladimir Kuryshev
+  - Leszek J. Klimczak
+  - Natalie Saini
+  - "Adrian M. St\xFCtz"
+  - Dieter Weichenhan
+  - "Lisa-Marie B\xF6ttcher"
+  - Reka Toth
+  - Josephine D. Hendriksen
+  - Christina Koop
+  - Pavlo Lutsik
+  - "S\xF6ren Matzk"
+  - "Hans-J\xF6rg Warnatz"
+  - Vyacheslav Amstislavskiy
+  - Clarissa Feuerstein
+  - Benjamin Raeder
+  - Olga Bogatyrova
+  - Eva-Maria Schmitz
+  - Claudia Hube-Magg
+  - Martina Kluth
+  - Hartwig Huland
+  - Markus Graefen
+  - Chris Lawerenz
+  - Gervaise H. Henry
+  - Takafumi N. Yamaguchi
+  - Alicia Malewska
+  - Jan Meiners
+  - Daniela Schilling
+  - Eva Reisinger
+  - Roland Eils
+  - Matthias Schlesner
+  - Douglas W. Strand
+  - Robert G. Bristow
+  - Paul C. Boutros
+  - Christof von Kalle
+  - Dmitry Gordenin
+  - "Holger S\xFCltmann"
+  - Benedikt Brors
+  - Guido Sauter
+  - Christoph Plass
+  - Marie-Laure Yaspo
+  - Jan O. Korbel
+  - Thorsten Schlomm
+  - Joachim Weischenfeldt
+  publisher: Cancer Cell
+  date: '2018-12-01'
+  link: https://doi.org/gfz52z
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/path.4985
+  title: "Androgenic to oestrogenic switch in the human adult prostate gland is regulated\
+    \ by epigenetic silencing of steroid 5\u03B1-reductase 2"
+  authors:
+  - Zongwei Wang
+  - Libing Hu
+  - Keyan Salari
+  - Seth K Bechis
+  - Rongbin Ge
+  - Shulin Wu
+  - Cyrus Rassoulian
+  - Jonathan Pham
+  - Chin-Lee Wu
+  - Shahin Tabatabaei
+  - Douglas W Strand
+  - Aria F Olumi
+  publisher: The Journal of Pathology
+  date: '2017-11-17'
+  link: https://doi.org/g9rx7d
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.26857
+  title: Estrogen receptor coregulator binding modulators (ERXs) effectively target
+    estrogen receptor positive human breast cancers
+  authors:
+  - Ganesh V Raj
+  - Gangadhara Reddy Sareddy
+  - Shihong Ma
+  - Tae-Kyung Lee
+  - Suryavathi Viswanadhapalli
+  - Rui Li
+  - Xihui Liu
+  - Shino Murakami
+  - Chien-Cheng Chen
+  - Wan-Ru Lee
+  - Monica Mann
+  - Samaya Rajeshwari Krishnan
+  - Bikash Manandhar
+  - Vijay K Gonugunta
+  - Douglas Strand
+  - Rajeshwar Rao Tekmal
+  - Jung-Mo Ahn
+  - Ratna K Vadlamudi
+  publisher: eLife
+  date: '2017-08-08'
+  link: https://doi.org/g9rx7f
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pros.23394
+  title: Molecular pathogenesis of human prostate basal cell hyperplasia
+  authors:
+  - Gervaise Henry
+  - Alicia Malewska
+  - Ryan Mauck
+  - Jeffrey Gahan
+  - Ryan Hutchinson
+  - Jose Torrealba
+  - Franto Francis
+  - Claus Roehrborn
+  - Douglas Strand
+  publisher: The Prostate
+  date: '2017-05-01'
+  link: https://doi.org/g5mt3p
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cyto.a.23187
+  title: "OMIP\u2010040: Optimized gating of human prostate cellular subpopulations"
+  authors:
+  - Gervaise H. Henry
+  - Nicolas Loof
+  - Douglas W. Strand
+  publisher: Cytometry Part A
+  date: '2017-08-18'
+  link: https://doi.org/gh5jfh
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.diff.2017.08.005
+  title: Prostate cancer xenografts and hormone induced prostate carcinogenesis
+  authors:
+  - Dalton T. McLean
+  - Douglas W. Strand
+  - William A. Ricke
+  publisher: Differentiation
+  date: '2017-09-01'
+  link: https://doi.org/gcqm2f
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.diff.2017.07.005
+  title: Targeting phenotypic heterogeneity in benign prostatic hyperplasia
+  authors:
+  - Douglas W. Strand
+  - Daniel N. Costa
+  - Franto Francis
+  - William A. Ricke
+  - Claus G. Roehrborn
+  publisher: Differentiation
+  date: '2017-07-01'
+  link: https://doi.org/gcm2c2
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2016.07.025
+  title: Non-Cell-Autonomous Regulation of Prostate Epithelial Homeostasis by Androgen
+    Receptor
+  authors:
+  - Boyu Zhang
+  - Oh-Joon Kwon
+  - Gervaise Henry
+  - Alicia Malewska
+  - Xing Wei
+  - Li Zhang
+  - William Brinkley
+  - Yiqun Zhang
+  - "Patricia\_D. Castro"
+  - Mark Titus
+  - Rui Chen
+  - Mohammad Sayeeduddin
+  - "Ganesh\_V. Raj"
+  - Ryan Mauck
+  - Claus Roehrborn
+  - "Chad\_J. Creighton"
+  - "Douglas\_W. Strand"
+  - "Michael\_M. Ittmann"
+  - Li Xin
+  publisher: Molecular Cell
+  date: '2016-09-01'
+  link: https://doi.org/f9fq94
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pros.23195
+  title: "NF\u2010\u03BAB and androgen receptor variant 7 induce expression of SRD5A\
+    \ isoforms and confer 5ARI resistance"
+  authors:
+  - David C. Austin
+  - Douglas W. Strand
+  - Harold L. Love
+  - Omar E. Franco
+  - Magdalena M. Grabowska
+  - Nicole L. Miller
+  - Omar Hameed
+  - Peter E. Clark
+  - Robert J. Matusik
+  - Ren J. Jin
+  - Simon W. Hayward
+  publisher: The Prostate
+  date: '2016-05-16'
+  link: https://doi.org/g9rx7g
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajur.2016.02.004
+  title: 'Advances in prostate cancer research models: From transgenic mice to tumor
+    xenografting models'
+  authors:
+  - Yuejiao Huang
+  - Chun Cheng
+  - Chong Zhang
+  - Yonghui Zhang
+  - Miaomiao Chen
+  - Douglas W. Strand
+  - Ming Jiang
+  publisher: Asian Journal of Urology
+  date: '2016-04-01'
+  link: https://doi.org/gqsd8p
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.diff.2015.10.013
+  title: Isolation and analysis of discreet human prostate cellular populations
+  authors:
+  - Douglas W. Strand
+  - LaTayia Aaron
+  - Gervaise Henry
+  - Omar E. Franco
+  - Simon W. Hayward
+  publisher: Differentiation
+  date: '2016-04-01'
+  link: https://doi.org/f8q6wn
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1210/en.2015-1312
+  title: Nfib Regulates Transcriptional Networks That Control the Development of Prostatic
+    Hyperplasia
+  authors:
+  - Magdalena M. Grabowska
+  - Stephen M. Kelly
+  - Amy L. Reese
+  - Justin M. Cates
+  - Tom C. Case
+  - Jianghong Zhang
+  - David J. DeGraff
+  - Douglas W. Strand
+  - Nicole L. Miller
+  - Peter E. Clark
+  - Simon W. Hayward
+  - Richard M. Gronostajski
+  - Philip D. Anderson
+  - Robert J. Matusik
+  publisher: Endocrinology
+  date: '2015-12-17'
+  link: https://doi.org/f8n5rh
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1530/erc-15-0195
+  title: The many ways to make a luminal cell and a prostate cancer cell
+  authors:
+  - Douglas W Strand
+  - Andrew S Goldstein
+  publisher: Endocrine-Related Cancer
+  date: '2015-08-25'
+  link: https://doi.org/g9rx7h
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pros.23140
+  title: "NF\u2010\u03BAB and androgen receptor variant expression correlate with\
+    \ human BPH progression"
+  authors:
+  - David C. Austin
+  - Douglas W. Strand
+  - Harold L. Love
+  - Omar E. Franco
+  - Alex Jang
+  - Magdalena M. Grabowska
+  - Nicole L. Miller
+  - Omar Hameed
+  - Peter E. Clark
+  - Jay H. Fowke
+  - Robert J. Matusik
+  - Ren J. Jin
+  - Simon W. Hayward
+  publisher: The Prostate
+  date: '2015-12-28'
+  link: https://doi.org/g9rx7j
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/labinvest.2014.64
+  title: FOXA1 deletion in luminal epithelium causes prostatic hyperplasia and alteration
+    of differentiated phenotype
+  authors:
+  - David J DeGraff
+  - Magdalena M Grabowska
+  - Tom C Case
+  - Xiuping Yu
+  - Mary K Herrick
+  - William J Hayward
+  - Douglas W Strand
+  - Justin M Cates
+  - Simon W Hayward
+  - Nan Gao
+  - Michael A Walter
+  - Ralph Buttyan
+  - Yajun Yi
+  - Klaus H Kaestner
+  - Robert J Matusik
+  publisher: Laboratory Investigation
+  date: '2014-07-01'
+  link: https://doi.org/f59gt9
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/pcan.2014.29
+  title: SOX2 expression in the developing, adult, as well as, diseased prostate
+  authors:
+  - X Yu
+  - J M Cates
+  - C Morrissey
+  - C You
+  - M M Grabowska
+  - J Zhang
+  - D J DeGraff
+  - D W Strand
+  - O E Franco
+  - O Lin-Tsai
+  - S W Hayward
+  - R J Matusik
+  publisher: Prostate Cancer and Prostatic Diseases
+  date: '2014-08-05'
+  link: https://doi.org/f6qcst
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pros.22785
+  title: "Surgical intervention for symptomatic benign prostatic hyperplasia is correlated\
+    \ with expression of the AP\u20101 transcription factor network"
+  authors:
+  - "Opal Lin\u2010Tsai"
+  - Peter E. Clark
+  - Nicole L. Miller
+  - Jay H. Fowke
+  - Omar Hameed
+  - Simon W. Hayward
+  - Douglas W. Strand
+  publisher: The Prostate
+  date: '2014-02-05'
+  link: https://doi.org/f536wm
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.juro.2013.02.026
+  title: Chronic Cyclic Bladder Over Distention Up-Regulates Hypoxia Dependent Pathways
+  authors:
+  - Heidi A. Stephany
+  - Douglas W. Strand
+  - Christina B. Ching
+  - Stacy T. Tanaka
+  - Ginger L. Milne
+  - Mariana M. Cajaiba
+  - John C. Thomas
+  - John C. Pope
+  - Mark C. Adams
+  - John W. Brock
+  - Simon W. Hayward
+  - Robert J. Matusik
+  - Douglass B. Clayton
+  publisher: Journal of Urology
+  date: '2013-10-01'
+  link: https://doi.org/g9rx7k
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajpath.2012.10.007
+  title: "Deficiency in Metabolic Regulators PPAR\u03B3 and PTEN Cooperates to Drive\
+    \ Keratinizing Squamous Metaplasia in Novel Models of Human Tissue Regeneration"
+  authors:
+  - Douglas W. Strand
+  - David J. DeGraff
+  - Ming Jiang
+  - Mansoureh Sameni
+  - Omar E. Franco
+  - Harold D. Love
+  - William J. Hayward
+  - Opal Lin-Tsai
+  - Anne Y. Wang
+  - Justin M.M. Cates
+  - Bonnie F. Sloane
+  - Robert J. Matusik
+  - Simon W. Hayward
+  publisher: The American Journal of Pathology
+  date: '2013-02-01'
+  link: https://doi.org/g9rx7m
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molonc.2013.07.008
+  title: SPARCL1 suppresses metastasis in prostate cancer
+  authors:
+  - Yuzhu Xiang
+  - Qingchao Qiu
+  - Ming Jiang
+  - Renjie Jin
+  - Brian D. Lehmann
+  - Douglas W. Strand
+  - Bojana Jovanovic
+  - David J. DeGraff
+  - Yi Zheng
+  - Dina A. Yousif
+  - Christine Q. Simmons
+  - Thomas C. Case
+  - Jia Yi
+  - Justin M. Cates
+  - John Virostko
+  - Xiusheng He
+  - Xunbo Jin
+  - Simon W. Hayward
+  - Robert J. Matusik
+  - "Alfred\_L. George"
+  - Yajun Yi
+  publisher: Molecular Oncology
+  date: '2013-07-20'
+  link: https://doi.org/g9rx7n
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/cddis.2012.99
+  title: "PPAR\u03B3 isoforms differentially regulate metabolic networks to mediate\
+    \ mouse prostatic epithelial differentiation"
+  authors:
+  - D W Strand
+  - M Jiang
+  - T A Murphy
+  - Y Yi
+  - K C Konvinse
+  - O E Franco
+  - Y Wang
+  - J D Young
+  - S W Hayward
+  publisher: Cell Death &amp; Disease
+  date: '2012-08-09'
+  link: https://doi.org/g9rx7p
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-0-387-69805-2_20
+  title: "Modeling Stromal\u2013Epithelial Interactions"
+  authors:
+  - Omar E. Franco
+  - Douglas W. Strand
+  - Simon W. Hayward
+  publisher: Genetically Engineered Mice for Cancer Research
+  date: '2011-09-28'
+  link: https://doi.org/brx4ps
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-10-3142
+  title: "Altered TGF-\u03B2 Signaling in a Subpopulation of Human Stromal Cells Promotes\
+    \ Prostatic Carcinogenesis"
+  authors:
+  - Omar E. Franco
+  - Ming Jiang
+  - Douglas W. Strand
+  - James Peacock
+  - Suzanne Fernandez
+  - Roger S. Jackson
+  - Monica P. Revelo
+  - Neil A. Bhowmick
+  - Simon W. Hayward
+  publisher: Cancer Research
+  date: '2011-02-14'
+  link: https://doi.org/fdh92f
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.diff.2011.05.008
+  title: "PPAR\u03B3: A molecular link between systemic metabolic disease and benign\
+    \ prostate hyperplasia"
+  authors:
+  - Ming Jiang
+  - Douglas W. Strand
+  - Omar E. Franco
+  - Peter E. Clark
+  - Simon W. Hayward
+  publisher: Differentiation
+  date: '2011-11-01'
+  link: https://doi.org/fsx4gg
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.semcdb.2009.10.010
+  title: Cancer associated fibroblasts in cancer pathogenesis
+  authors:
+  - Omar E. Franco
+  - Aubie K. Shaw
+  - Douglas W. Strand
+  - Simon W. Hayward
+  publisher: Seminars in Cell &amp; Developmental Biology
+  date: '2010-02-01'
+  link: https://doi.org/b8hfvf
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/stem.284
+  title: Functional Remodeling of Benign Human Prostatic Tissues <i>In Vivo</i> by
+    Spontaneously Immortalized Progenitor and Intermediate Cells
+  authors:
+  - Ming Jiang
+  - Douglas W. Strand
+  - Suzanne Fernandez
+  - Yue He
+  - Yajun Yi
+  - Andreas Birbach
+  - Qingchao Qiu
+  - Johannes Schmid
+  - Dean G. Tang
+  - Simon W. Hayward
+  publisher: Stem Cells
+  date: '2009-12-17'
+  link: https://doi.org/dqp4bq
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2174/156652410791065363
+  title: Perspectives on Tissue Interactions in Development and Disease
+  authors:
+  - D. Strand
+  - O. Franco
+  - D. Basanta
+  - A. Anderson
+  - S. Hayward
+  publisher: Current Molecular Medicine
+  date: '2010-02-01'
+  link: https://doi.org/bd8q5x
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0013751
+  title: "TGF-\u03B21 Induces an Age-Dependent Inflammation of Nerve Ganglia and Fibroplasia\
+    \ in the Prostate Gland Stroma of a Novel Transgenic Mouse"
+  authors:
+  - David A. Barron
+  - Douglas W. Strand
+  - Steven J. Ressler
+  - Truong D. Dang
+  - Simon W. Hayward
+  - Feng Yang
+  - Gustavo E. Ayala
+  - Michael Ittmann
+  - David R. Rowley
+  publisher: PLoS ONE
+  date: '2010-10-29'
+  link: https://doi.org/bxv45h
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-08-3957
+  title: "The Role of Transforming Growth Factor-\u03B2\u2013Mediated Tumor-Stroma\
+    \ Interactions in Prostate Cancer Progression: An Integrative Approach"
+  authors:
+  - David Basanta
+  - Douglas W. Strand
+  - Ralf B. Lukner
+  - Omar E. Franco
+  - David E. Cliffel
+  - Gustavo E. Ayala
+  - Simon W. Hayward
+  - Alexander R.A. Anderson
+  publisher: Cancer Research
+  date: '2009-08-31'
+  link: https://doi.org/dhqh9q
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.onc.1210663
+  title: "Fibroblast growth factor-2 mediates transforming growth factor-\u03B2 action\
+    \ in prostate cancer reactive stroma"
+  authors:
+  - F Yang
+  - D W Strand
+  - D R Rowley
+  publisher: Oncogene
+  date: '2007-07-16'
+  link: https://doi.org/dgrfmq
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
