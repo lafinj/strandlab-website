@@ -1,0 +1,1 @@
+Sitemap: https://lafinj.github.io/strandlab-website/sitemap.xml
