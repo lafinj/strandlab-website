@@ -11,7 +11,7 @@ The Strand Lab is made up of a diverse team of trainees, technicians, and scient
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != /alumni/" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'alumni'" %}
 
 {% include section.html %}
 

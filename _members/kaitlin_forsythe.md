@@ -1,6 +1,6 @@
 ---
 name: Kaitlin Forsythe
-image: images/members/photo.jpg
+image: images/photo.jpg
 role: phd
 links:
   orcid: 
