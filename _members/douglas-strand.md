@@ -1,6 +1,6 @@
 ---
 name: Douglas Strand
-image: images/photo.jpg
+image: images/strand_d.jpg
 role: principal-investigator
 links:
   home-page: https://strandlab.net

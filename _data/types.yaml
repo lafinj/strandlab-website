@@ -18,9 +18,16 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+bfx:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Computational Biologist
+
+tech:
+  icon: fa-solid
+  description: Research Technician
+
+former:
+  icon: fa-solid
 
 mascot:
   icon: fa-solid fa-dog
