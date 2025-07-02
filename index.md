@@ -15,7 +15,7 @@ Our research focuses on developing a better understanding of the normal healthy 
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,8 +27,8 @@ Our research focuses on developing a better understanding of the normal healthy 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Publications"
   text=text
 %}
 
@@ -38,8 +38,8 @@ We have several active research projects ongoing. See here for more details.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Browse our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ We have several active research projects ongoing. See here for more details.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Research"
   flip=true
   style="bare"
   text=text
@@ -76,6 +76,6 @@ The Strand Lab is made up of an interdisciplinary team of trainees, technicians,
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}
