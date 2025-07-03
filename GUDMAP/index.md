@@ -13,4 +13,6 @@ The **GenitoUrinary Development Molecular Anatomy Project** (GUDMAP) is a consor
 
 [Development of the kidney in mouse and human](tutorials/kidney_dev)
 
+[Lower Urinary Tract Innervation and its Development](tutorials/LUT_innervation.md)
+
 ## Resources
