@@ -5,6 +5,6 @@
 
   # lafinj's Website
 
-  Visit **[lafinj.github.io/strandlab-website](https://lafinj.github.io/strandlab-website)** 🚀
+  Visit **[johnlafin.com/strandlab-website](http://johnlafin.com/strandlab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
