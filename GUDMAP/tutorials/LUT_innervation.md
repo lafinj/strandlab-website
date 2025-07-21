@@ -35,7 +35,10 @@ Each autonomic axon makes many synapses with the nearby tissue, indicated by the
 Examples of cholinergic axons immunolabelled for vesicular acetylcholine transporter (VAChT; Slc18a3) in cryosections of mouse bladder at E16 (See GUDMAP RID N-FKKE), P2 (See GUDMAP RID N-FN0P) and adult (See GUDMAP RID N-FNFP)."
 %}
 
-(( Fig2B_motor_movie.mp4 ))
+{% 
+    include figure.html
+    image="images/GUDMAP/LUT_innervation/Fig2B_motor_movie.gif"
+%}
 
 **Figure 2B: Cholinergic axons in whole thickness adult mouse bladder immunolabelled for VAChT. Movie progresses through different focal planes in the muscle.**
 
@@ -98,7 +101,10 @@ Sensory axons have a characteristic appearance within the LUT tissues [Figure 3]
 Examples of sensory axons immunolabelled for calcitonin gene-related peptide (CGRP; Calca) in cryosections of mouse bladder at E16 (See GUDMAP RID N-FM22), P2 (See GUDMAP RID N-FN1T) and adult (See GUDMAP RID N-FNF2)."
 %}
 
-(( Fig3_sensory_movie.mp4 ))
+{% 
+    include figure.html
+    image="images/GUDMAP/LUT_innervation/Fig3_sensory_movie.gif"
+%}
 
 **Figure 3B: Sensory axons in whole thickness adult mouse bladder immunolabelled for CGRP. Movie progresses through different focal planes in the muscle.**
 

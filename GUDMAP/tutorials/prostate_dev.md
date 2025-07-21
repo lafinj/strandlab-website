@@ -137,7 +137,10 @@ Prostatic ducts form lumens that give rise to the mature prostate.
 
 A movie depicting the budding and branching phases is shown below.
 
-<<Movie of budding and branching phases>>
+{% 
+    include figure.html
+    image="images/GUDMAP/prostate_dev/budding.gif"
+%}
 
 The prostatic buds are color coded:
 

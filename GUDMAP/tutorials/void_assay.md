@@ -31,7 +31,10 @@ The VSA provides information about cumulative voiding behaviors over time, appro
 
 ## Best Practices and Recommended Procedure
 
-<< movie >>
+{% 
+    include figure.html
+    image="images/GUDMAP/void_assay/vsa-movie-opt.gif"
+%}
 
 The above video demonstrates the general procedure for VSA.
 

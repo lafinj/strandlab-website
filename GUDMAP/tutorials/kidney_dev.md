@@ -18,7 +18,10 @@ The functional unit of the kidney is the nephron. Molecular, cellular and geneti
 
 Kidney development is dynamic. Normal development requires the coordination of interactions among multiple cell types over an extensive developmental period for the formation, organization and function of the kidney. How can we obtain a dynamic view of developmental processes that normally take place with the fetus? Kidney organ cultures with genetically marked strains of mice - as in the video below - open the door to understanding developmental events in space and time. 
 
-<< insert video here >>
+{% 
+    include figure.html
+    image="images/GUDMAP/kidney_dev/kidney-organ-cultures.gif"
+%}
 
 ## Mouse versus the human kidney
 
