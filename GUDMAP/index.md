@@ -27,4 +27,8 @@ The **GenitoUrinary Development Molecular Anatomy Project** (GUDMAP) is a consor
 
 ## Resources
 
+[Theiler stage reference](resources/theiler_stages)
+
 [Adult Mouse Penis Atlas](resources/adult_mouse_penis_atlas)
+
+[Mouse Genital Tubercule Atlas](resources/mouse_genital_tubercule_atlas)

@@ -38,7 +38,7 @@ Refer to the [following publication](https://www.karger.com/Article/Pdf/431010) 
 
 ## MRI Viewing Instructions
 
-1. Download and unzip the ZIP file (33 MB).
+1. Download and unzip the [ZIP file](3D-MRI-Viewing.zip) (33 MB).
 2. Download and install ITK-SNAP: [http://www.itksnap.org/pmwiki/pmwiki.php](http://www.itksnap.org/pmwiki/pmwiki.php)
 3. Open the program and in the top toolbar go to `File` > `Open Main Image`, browse the above zip folder to locate the MRI Image labeled “Atlas.nii” in the "ITK-SNAP Files" folder. Then click `Next` >, then click `Finish`.
 4. In the top toolbar go to `Segmentation` > `Open Segmentation`.
