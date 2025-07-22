@@ -1,0 +1,26 @@
+- id: doi:10.1016/j.celrep.2018.11.086
+  title: A Cellular Anatomy of the Normal Adult Human Prostate and Prostatic Urethra
+  authors:
+  - Gervaise H. Henry
+  - Alicia Malewska
+  - Diya B. Joseph
+  - Venkat S. Malladi
+  - Jeon Lee
+  - Jose Torrealba
+  - Ryan J. Mauck
+  - Jeffrey C. Gahan
+  - Ganesh V. Raj
+  - Claus G. Roehrborn
+  - Gary C. Hon
+  - Malcolm P. MacConmara
+  - Jeffrey C. Reese
+  - Ryan C. Hutchinson
+  - Chad M. Vezina
+  - Douglas W. Strand
+  publisher: Cell Reports
+  date: '2018-12-01'
+  link: https://doi.org/gfrms3
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124718318771-fx1_lrg.jpg
