@@ -26,7 +26,7 @@ Our research focuses on developing a better understanding of the normal healthy 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/2018_cellreports_scaled.png"
   link="publications"
   title="Publications"
   text=text
@@ -49,7 +49,7 @@ We have several active research projects ongoing. See here for more details.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/CT_huLUT_seg.gif"
   link="research"
   title="Research"
   flip=true
@@ -74,7 +74,7 @@ The Strand Lab is made up of an interdisciplinary team of trainees, technicians,
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_photo.jpg"
   link="team"
   title="Team"
   text=text
