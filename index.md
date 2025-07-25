@@ -3,7 +3,7 @@
 
 # Strand Lab
 
-Developing cellular atlases of the mammalian lower urinary tract for fun and (intellectual) profit!
+<center>Developing cellular atlases of the mammalian lower urinary tract for fun and (intellectual) profit!</center>
 
 {% include section.html %}
 
