@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-{% include figure.html image="images/CT_huLUT.gif" %}
+{% include figure.html image="2018_cellreports_scaled.png" %}
 
 ## Overview
 
