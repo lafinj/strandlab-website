@@ -1,1 +1,1 @@
-Sitemap: http://johnlafin.com/strandlab-website/sitemap.xml
+Sitemap: http://strandlab.net/sitemap.xml
