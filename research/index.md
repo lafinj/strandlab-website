@@ -2,12 +2,11 @@
 title: Research
 nav:
   order: 2
-  tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-{% include figure.html image="2018_cellreports_scaled.png" %}
+{% include figure.html image="images/2018_cellreports_scaled.png" %}
 
 ## Overview
 

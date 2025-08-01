@@ -2,7 +2,6 @@
 title: GUDMAP
 nav:
   order: 4
-  tooltip: GUDMAP resources
 ---
 
 # {% include icon.html icon="fa-solid fa-book-open" %}GUDMAP resources
