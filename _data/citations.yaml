@@ -486,7 +486,7 @@
   file: orcid.yaml
 - id: doi:10.1002/path.4985
   title: "Androgenic to oestrogenic switch in the human adult prostate gland is regulated\
-    \ by epigenetic silencing of steroid 5\u03B1-reductase 2"
+    \ by epigenetic silencing of steroid 5\u03B1\u2010reductase 2"
   authors:
   - Zongwei Wang
   - Libing Hu
@@ -496,7 +496,7 @@
   - Shulin Wu
   - Cyrus Rassoulian
   - Jonathan Pham
-  - Chin-Lee Wu
+  - "Chin\u2010Lee Wu"
   - Shahin Tabatabaei
   - Douglas W Strand
   - Aria F Olumi
