@@ -1,7 +1,7 @@
 ---
 name: Alicia Simmons
 image: images/members/simmons_a.jpg
-role: tech
+role: alumni
 links:
   orcid: 0009-0002-0520-4435
 ---
