@@ -1,5 +1,424 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/path.70000
+  title: Estrogen regulation in the prostate underlies racial disparity in men with
+    benign prostatic hyperplasia
+  authors:
+  - Teresa T Liu
+  - Laura E Pascal
+  - Emily A Ricke
+  - "Ana Lucila Bautista\u2010Ruiz"
+  - Justin Townsend
+  - Glenn O Allen
+  - Rajiv Dhir
+  - Douglas W Strand
+  - Donald B DeFranco
+  - William A Ricke
+  publisher: The Journal of Pathology
+  date: '2025-11-29'
+  link: https://doi.org/hbc4w2
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.c.8197665
+  title: Data from Prostate Cancer Transcriptomic Regulation by the Interplay of Germline
+    Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndp
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860439
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndq
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860460
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndr
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860445
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnds
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860448
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndt
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860469
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndv
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860481
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndw
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860472
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndx
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860457
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfndz
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860478
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd2
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860475
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd3
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860430
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd4
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860466
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd5
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860436
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd6
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860433
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd7
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860454
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd8
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860442
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnd9
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860463
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnfb
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.30860451
+  title: Supplementary Figure from Prostate Cancer Transcriptomic Regulation by the
+    Interplay of Germline Risk Alleles, Somatic Mutations, and 3D Genomic Architecture
+  authors:
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hbfnfc
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1073/pnas.2409754122
   title: A 5-HT-mediated urethral defense against urinary tract infections
   authors:
@@ -301,7 +720,7 @@
   - Douglas Strand
   - Keri Drake
   - Thomas J. Carroll
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-03-03'
   link: https://doi.org/gk2vb9
   orcid: 0000-0002-0746-927X
