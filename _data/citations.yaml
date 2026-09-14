@@ -1,5 +1,40 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.17.745253
+  title: "CD8+ T CELLS ASSOCIATE WITH FORMING GLANDULAR NODULES IN\n             \
+    \     <i>TOXOPLASMA GONDII-</i>\n                  INDUCED PROSTATIC HYPERPLASIA\
+    \ AND HUMAN BPH"
+  authors:
+  - Tara D. Fuller
+  - Rafael B. Polidoro
+  - Doug W. Strand
+  - Gustavo Arrizabalaga
+  - Travis J. Jerde
+  publisher: openRxiv
+  date: '2026-08-20'
+  link: https://doi.org/hcgmbh
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.04.23.720409
+  title: "<i>Toxoplasma gondii</i>\n                  associates with human Benign\
+    \ Prostatic Hyperplasia and induces prostatic hyperplasia and accompanying urinary\
+    \ dysfunction in mice"
+  authors:
+  - Emily F. Stanczak
+  - Tara D. Fuller
+  - Doug W. Strand
+  - Hanyu Xia
+  - Oliver R. Strobel
+  - Irene Heredero Bermejo
+  - Gustavo Arrizabalaga
+  - Travis J. Jerde
+  publisher: openRxiv
+  date: '2026-04-24'
+  link: https://doi.org/hbzks8
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/path.70000
   title: Estrogen regulation in the prostate underlies racial disparity in men with
     benign prostatic hyperplasia
@@ -574,6 +609,27 @@
   publisher: The Prostate
   date: '2021-07-20'
   link: https://doi.org/g9rx63
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34173975
+  title: Single-cell analysis of mouse and human prostate reveals novel fibroblasts
+    with specialized distribution and microenvironment interactions.
+  authors:
+  - Diya B Joseph
+  - Gervaise H Henry
+  - Alicia Malewska
+  - Jeffrey C Reese
+  - Ryan J Mauck
+  - Jeffrey C Gahan
+  - Ryan C Hutchinson
+  - Venkat S Malladi
+  - Claus G Roehrborn
+  - Chad M Vezina
+  - Douglas W Strand
+  publisher: The Journal of pathology
+  date: '2021-07-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34173975
   orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
