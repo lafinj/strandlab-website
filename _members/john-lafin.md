@@ -1,7 +1,8 @@
 ---
 name: John Lafin
 image: images/members/lafin_j.jpg
-role: bfx
+role: alumni
+description: Computational Biologist
 links:
   home-page: https://johnlafin.com
   orcid: 0000-0003-2335-8999
