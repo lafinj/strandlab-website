@@ -645,9 +645,9 @@
   orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:34173975
-  title: Single-cell analysis of mouse and human prostate reveals novel fibroblasts
-    with specialized distribution and microenvironment interactions.
+- id: doi:10.1002/path.5751
+  title: "Single\u2010cell analysis of mouse and human prostate reveals novel fibroblasts\
+    \ with specialized distribution and microenvironment interactions"
   authors:
   - Diya B Joseph
   - Gervaise H Henry
@@ -660,9 +660,9 @@
   - Claus G Roehrborn
   - Chad M Vezina
   - Douglas W Strand
-  publisher: The Journal of pathology
+  publisher: The Journal of Pathology
   date: '2021-07-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34173975
+  link: https://doi.org/gr4x7r
   orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
@@ -719,60 +719,60 @@
   orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:32698014
+- id: doi:10.1016/j.celrep.2020.107922
   title: "Tissue-Specific Regulation of the Wnt/\u03B2-Catenin Pathway by PAGE4 Inhibition\
-    \ of Tankyrase."
+    \ of Tankyrase"
   authors:
   - Sajjan Koirala
   - Jonathon Klein
   - Yumei Zheng
-  - Nicole O Glenn
+  - Nicole O. Glenn
   - Travis Eisemann
   - Klementina Fon Tacer
-  - Darcie J Miller
+  - Darcie J. Miller
   - Ozlem Kulak
   - Meifen Lu
-  - David B Finkelstein
+  - David B. Finkelstein
   - Geoffrey Neale
   - Heather Tillman
   - Peter Vogel
-  - Douglas W Strand
+  - Douglas W. Strand
   - Lawrence Lum
-  - Chad A Brautigam
-  - John M Pascal
-  - Wilson K Clements
+  - Chad A. Brautigam
+  - John M. Pascal
+  - Wilson K. Clements
   - Patrick Ryan Potts
-  publisher: Cell reports
-  date: '2020-07-21'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32698014
+  publisher: Cell Reports
+  date: '2020-07-01'
+  link: https://doi.org/gg7ckt
   orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:32497356
-  title: Urethral luminal epithelia are castration-insensitive cells of the proximal
-    prostate.
+- id: doi:10.1002/pros.24020
+  title: "Urethral luminal epithelia are castration\u2010insensitive cells of the\
+    \ proximal prostate"
   authors:
-  - Diya B Joseph
-  - Gervaise H Henry
+  - Diya B. Joseph
+  - Gervaise H. Henry
   - Alicia Malewska
-  - Nida S Iqbal
-  - Hannah M Ruetten
-  - Anne E Turco
-  - Lisa L Abler
-  - Simran K Sandhu
-  - Mark T Cadena
-  - Venkat S Malladi
-  - Jeffrey C Reese
-  - Ryan J Mauck
-  - Jeffrey C Gahan
-  - Ryan C Hutchinson
-  - Claus G Roehrborn
-  - Linda A Baker
-  - Chad M Vezina
-  - Douglas W Strand
+  - Nida S. Iqbal
+  - Hannah M. Ruetten
+  - Anne E. Turco
+  - Lisa L. Abler
+  - Simran K. Sandhu
+  - Mark T. Cadena
+  - Venkat S. Malladi
+  - Jeffrey C. Reese
+  - Ryan J. Mauck
+  - Jeffrey C. Gahan
+  - Ryan C. Hutchinson
+  - Claus G. Roehrborn
+  - Linda A. Baker
+  - Chad M. Vezina
+  - Douglas W. Strand
   publisher: The Prostate
   date: '2020-06-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32497356
+  link: https://doi.org/hcskhg
   orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
@@ -1470,6 +1470,13 @@
   publisher: Stem Cells
   date: '2009-12-17'
   link: https://doi.org/dqp4bq
+  orcid: 0000-0002-0746-927X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Modeling stromal-epithelial interactions in disease progression.
+  publisher: Discovery medicine
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77957341243&partnerID=MN8TOARS
   orcid: 0000-0002-0746-927X
   plugin: orcid.py
   file: orcid.yaml
